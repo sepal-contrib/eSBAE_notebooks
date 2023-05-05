@@ -1,2 +1,2 @@
 git+https://github.com/openforis/earthengine-api.git@v0.1.343#egg=earthengine-api&subdirectory=python
-git+https://github.com/BuddyVolly/sampling-handler@main
+git+https://github.com/BuddyVolly/sampling-handler
