@@ -1,2 +1,1 @@
 sampling-handler @ git+https://github.com/BuddyVolly/sampling-handler@main
-protobuf==3.19.6
