@@ -1,0 +1,9 @@
+name: alert_module
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - git+https://github.com/BuddyVolly/sampling-handler@main
