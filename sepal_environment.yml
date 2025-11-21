@@ -1,4 +1,4 @@
-name: alert_module
+name: eSBAE-notebooks
 channels:
   - conda-forge
   - defaults
